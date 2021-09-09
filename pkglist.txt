@@ -45,5 +45,5 @@
 #pkg    zathura-pdf-mupdf
 #pkg    zip
 #pkg    zsh
-#git    dwm         git@jeffreybutler.net~/dwm
-#git    slstatus    git@jeffreybutler.net:~/slstatus
+#git    dwm         https://github.com/spaghettijeff/dwm
+#git    slstatus    https://github.com/spaghettijeff/slstatus
